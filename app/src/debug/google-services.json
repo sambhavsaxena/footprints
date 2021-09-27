@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "201614968837",
+    "project_id": "footprints-xtr",
+    "storage_bucket": "footprints-xtr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201614968837:android:1b8687396d9bb90182346c",
+        "android_client_info": {
+          "package_name": "com.xtr.footprints"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201614968837-3ojgrm9388sltuadclh2to955qelujsq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpWpnAqHxB9mCM0o5U0yP2XU5qUsm9EqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201614968837-3ojgrm9388sltuadclh2to955qelujsq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

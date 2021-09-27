@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="log_in">LOG IN</string>
+    <string name="create_account">CREATE ACCOUNT</string>
+    <string name="v_2_1_4">V: 2.1.4</string>
+    <string name="password">Password</string>
+    <string name="or_log_in_here">Or Log In here</string>
+    <string name="email_address">Email address</string>
+    <string name="or_sign_up_here">Or Sign Up here</string>
+    <string name="repeat_password">Repeat password</string>
+    <string name="todo">TODO</string>
+</resources>
