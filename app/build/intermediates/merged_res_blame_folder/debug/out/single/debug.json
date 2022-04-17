@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "C:\\Users\\Chaitanya\\Desktop\\footprints\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Chaitanya\\Desktop\\footprints\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Chaitanya\\Desktop\\footprints\\app\\build\\intermediates\\res\\merged\\debug\\layout_splashscreenactivity.xml.flat",
+        "source": "C:\\Users\\Chaitanya\\Desktop\\footprints\\app\\src\\main\\res\\layout\\splashscreenactivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chaitanya\\Desktop\\footprints\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Chaitanya\\Desktop\\footprints\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Chaitanya\\Desktop\\footprints\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Chaitanya\\Desktop\\footprints\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Chaitanya\\Desktop\\footprints\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Chaitanya\\Desktop\\footprints\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Chaitanya\\Desktop\\footprints\\app\\build\\intermediates\\res\\merged\\debug\\layout_startpage.xml.flat",
+        "source": "C:\\Users\\Chaitanya\\Desktop\\footprints\\app\\src\\main\\res\\layout\\startpage.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chaitanya\\Desktop\\footprints\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Chaitanya\\Desktop\\footprints\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Chaitanya\\Desktop\\footprints\\app\\build\\intermediates\\res\\merged\\debug\\anim_central_animation.xml.flat",
+        "source": "C:\\Users\\Chaitanya\\Desktop\\footprints\\app\\src\\main\\res\\anim\\central_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chaitanya\\Desktop\\footprints\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Chaitanya\\Desktop\\footprints\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Chaitanya\\Desktop\\footprints\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Chaitanya\\Desktop\\footprints\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Chaitanya\\Desktop\\footprints\\app\\build\\intermediates\\res\\merged\\debug\\layout_loginactivity.xml.flat",
+        "source": "C:\\Users\\Chaitanya\\Desktop\\footprints\\app\\src\\main\\res\\layout\\loginactivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chaitanya\\Desktop\\footprints\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Chaitanya\\Desktop\\footprints\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Chaitanya\\Desktop\\footprints\\app\\build\\intermediates\\res\\merged\\debug\\drawable_splash.png.flat",
+        "source": "C:\\Users\\Chaitanya\\Desktop\\footprints\\app\\src\\main\\res\\drawable\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\Chaitanya\\Desktop\\footprints\\app\\build\\intermediates\\res\\merged\\debug\\layout_registeractivity.xml.flat",
+        "source": "C:\\Users\\Chaitanya\\Desktop\\footprints\\app\\src\\main\\res\\layout\\registeractivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chaitanya\\Desktop\\footprints\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Chaitanya\\Desktop\\footprints\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Chaitanya\\Desktop\\footprints\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Chaitanya\\Desktop\\footprints\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Chaitanya\\Desktop\\footprints\\app\\build\\intermediates\\res\\merged\\debug\\layout_mainactivity.xml.flat",
+        "source": "C:\\Users\\Chaitanya\\Desktop\\footprints\\app\\src\\main\\res\\layout\\mainactivity.xml"
+    }
+]

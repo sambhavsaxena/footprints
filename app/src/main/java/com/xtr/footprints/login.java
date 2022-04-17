@@ -49,7 +49,7 @@ public class login extends AppCompatActivity {
                 return;
             }
             
-            Toast.makeText(login.this, "Working on it..", Toast.LENGTH_SHORT).show();
+            Toast.makeText(login.this, "Working on it", Toast.LENGTH_SHORT).show();
 
             //Authenticating the credentials
 

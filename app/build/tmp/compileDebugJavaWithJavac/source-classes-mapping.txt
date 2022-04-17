@@ -1,0 +1,13 @@
+com/xtr/footprints/BuildConfig.java
+ com.xtr.footprints.BuildConfig
+com/xtr/footprints/splashscreen.java
+ com.xtr.footprints.splashscreen
+com/xtr/footprints/login.java
+ com.xtr.footprints.login
+com/xtr/footprints/startpage.java
+ com.xtr.footprints.startpage
+com/xtr/footprints/MainActivity.java
+ com.xtr.footprints.MainActivity
+com/xtr/footprints/register.java
+ com.xtr.footprints.register
+ com.xtr.footprints.register$1
