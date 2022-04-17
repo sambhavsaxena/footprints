@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">201614968837-3ojgrm9388sltuadclh2to955qelujsq.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">201614968837</string>
+    <string name="google_api_key" translatable="false">AIzaSyCpWpnAqHxB9mCM0o5U0yP2XU5qUsm9EqI</string>
+    <string name="google_app_id" translatable="false">1:201614968837:android:1b8687396d9bb90182346c</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCpWpnAqHxB9mCM0o5U0yP2XU5qUsm9EqI</string>
+    <string name="google_storage_bucket" translatable="false">footprints-xtr.appspot.com</string>
+    <string name="project_id" translatable="false">footprints-xtr</string>
+</resources>

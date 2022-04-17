@@ -72,8 +72,8 @@ public class register extends AppCompatActivity {
                 pass1.setError("Password should be more than 8 characters");
                 return;
             }
-            
-            Toast.makeText(login.this, "Working on it..", Toast.LENGTH_SHORT).show();
+
+            Toast.makeText(register.this, "Working on it", Toast.LENGTH_SHORT).show();
 
             //REGISTER USER IN FIREBASE
 
