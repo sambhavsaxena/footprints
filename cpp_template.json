@@ -1,0 +1,20 @@
+{
+	"cp-extension": {
+	  "prefix": ["cpp-cp"],
+	  "body": ["#include <bits/stdc++.h>",
+"using namespace std;",
+"#define ll long long",
+"#define mod 1000000007\n\nvoid solve()",
+"{",
+	"\t$1",
+"}",
+"\n",
+"int main() {\n\tios_base::sync_with_stdio(false);cin.tie(NULL);cout.tie(NULL);\n#ifndef SUGAR_MOMMY",
+"\tfreopen(\"input.txt\", \"r\", stdin);",
+"\tfreopen(\"output.txt\", \"w\", stdout);",
+"#endif\n\tll test;\n\tcin>>test;\n\twhile(test--)\n\t{\n\t\tsolve();\n\t}\n\treturn 0;\n}\n"
+	  
+	  ],
+	  "description": "Default cpp code for CP"
+	}
+}
