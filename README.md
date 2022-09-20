@@ -21,7 +21,7 @@ This could occur due to discrepencies with various versions of Gradle being used
 
 How to fix: Visit [this](https://stackoverflow.com/questions/29808199/error-running-android-gradle-project-sync-failed-please-fix-your-project-and-t) link and try if it works.
 
-Better fix: Raise an issue and discuss about the problem.
+Better fix: Raise an issue and discuss the problem.
 
 ## Documentation
 
