@@ -1,7 +1,7 @@
 # Footprints 
 Footprints is a basic android authentication template made in Android Studio
 
-![image](https://raw.githubusercontent.com/thatsameguyokay/images/main/footprints.png)
+![image](https://cdn.statically.io/gh/thatsameguyokay/images/main/footprints.png)
 
 ## Installation
 Follow the steps to install the application to your local machine:
